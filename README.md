@@ -45,7 +45,7 @@ Create a text file named secret with a confidential message:
 List of Images with Steganography Detection Scores and File Signature Details
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3e83c0bd-c3de-4c53-b29b-31fd5c11abc3"/>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/237da533-1f10-496c-b8b6-09655e61d69b"/>
+
 
 # Step 2: Verify the Extracted Message
 • Display the extracted file content to verify:
@@ -58,7 +58,7 @@ List of Images with Steganography Detection Scores and File Signature Details
 
 • To gather details about embedded content in the image:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/d537440b-7b51-4386-bb40-41d13bea10bb"/>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/237da533-1f10-496c-b8b6-09655e61d69b"/>
 
 
 • This will display file type, size, and whether data is embedded.
