@@ -19,7 +19,7 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
 
 Create a text file named secret with a confidential message:
 
- <img width="400" alt="image" src="https://github.com/user-attachments/assets/4301d7e9-ecc4-487e-a389-41dbc2398fa0"/>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4301d7e9-ecc4-487e-a389-41dbc2398fa0"/>
 
 # Step 2: Install and Verify Steghide Tool
 • To install Steghide on Kali linux,run:
@@ -45,8 +45,6 @@ Create a text file named secret with a confidential message:
 List of Images with Steganography Detection Scores and File Signature Details
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3e83c0bd-c3de-4c53-b29b-31fd5c11abc3"/>
-
-
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/237da533-1f10-496c-b8b6-09655e61d69b"/>
 
 # Step 2: Verify the Extracted Message
